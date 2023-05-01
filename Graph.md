@@ -16,12 +16,14 @@ https://www.youtube.com/watch?v=lTr4dXNz0HI
 
 ## 搜尋法(以樹為例，圖只要再加上紀錄已探訪就好)
 ### 廣度優先搜尋 BFS
-![](images/BFS-1.png)
-![](images/BFS-2.png)
+<img width="1062" alt="BFS-1" src="https://user-images.githubusercontent.com/89962742/235475641-7ab4bc43-2471-4a13-bfdf-b311fdedcab6.png">
+<img width="1058" alt="BFS-2" src="https://user-images.githubusercontent.com/89962742/235475663-b6865679-acf8-4a21-8bc2-7c4db96cb8a7.png">
+
 
 ### 深度優先搜尋 DFS
-![](images/DFS-1.png)
-![](images/DFS-2.png)
+<img width="1063" alt="DFS-1" src="https://user-images.githubusercontent.com/89962742/235475672-893e7d98-10fc-45f3-b86e-7771b706086b.png">
+<img width="1071" alt="DFS-2" src="https://user-images.githubusercontent.com/89962742/235475679-7d587a2f-6901-44fa-9920-86af131f3ebc.png">
+
 
 ## Exercise
 ### [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
